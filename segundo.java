@@ -1,6 +1,5 @@
 public class CountA {
     public static int countA(String str) {
-        // Converte a string para minúsculas e conta as ocorrências de 'a'
         str = str.toLowerCase();
         int count = 0;
         for (int i = 0; i < str.length(); i++) {
