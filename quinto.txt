@@ -1,0 +1,10 @@
+5) Problema dos interruptores e lâmpadas:
+Para descobrir qual interruptor controla cada lâmpada com apenas duas idas até a sala:
+
+Ligue o primeiro interruptor e espere alguns minutos. Depois desligue-o.
+Ligue o segundo interruptor e vá para a sala.
+Ao chegar na sala:
+A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+A lâmpada que estiver quente, mas apagada, é controlada pelo primeiro interruptor (já que ficou ligada e foi desligada antes de você ir).
+A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor.
+Assim, você identifica as três lâmpadas com apenas duas idas à sala.
