@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FibonacciCheck {
+public class Fibonacci{
     public static boolean isFibonacci(int n) {
         int a = 0, b = 1;
         while (a < n) {
